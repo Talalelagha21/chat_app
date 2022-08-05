@@ -1,0 +1,20 @@
+body {
+  
+  background-color: #111920;
+  
+
+}
+
+
+
+
+html, body, #app {
+  min-height: 100vh;
+  max-height: 100vh;
+  max-width: 100%;
+}
+
+
+
+
+
